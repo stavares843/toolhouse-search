@@ -71,5 +71,8 @@ curl -X POST "http://127.0.0.1:8000/search" -H "Content-Type: application/json" 
 
 
 
-https://github.com/user-attachments/assets/93e1317b-8604-49b3-91b3-102468df8aee
+https://github.com/user-attachments/assets/dcf2747e-16ef-49d0-b290-523a56a7c204
+
+
+
 
