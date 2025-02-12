@@ -9,14 +9,14 @@ Toolhouse Search helps users **find tools efficiently** using **AI-based search*
 - **Database**: FAISS (Vector Search)
 
 ## 📌 Features
-✅ AI-powered semantic search using FAISS & Sentence Transformers
-✅ Handles partial word matches (e.g., "machine" finds "machine learning")
-✅ Fast & efficient search using vector embeddings
-✅ "No results found" message when there are no matches
-✅ Press "Enter" to search
-✅ AI-powered ranking ensures the most relevant tools appear first
-✅ Easily extendable architecture (add more tools, new search methods, etc.)
-✅ Modular backend design with FastAPI & FAISS
+- AI-powered semantic search using FAISS & Sentence Transformers
+- Handles partial word matches (e.g., "machine" finds "machine learning")
+- Fast & efficient search using vector embeddings
+- If are no results "No results found" message appears
+- Press "Enter" to search
+- AI-powered ranking ensures the most relevant tools appear first
+- Easily extendable architecture (add more tools, new search methods, etc.)
+- Modular backend design with FastAPI & FAISS
 
 ## 🛠 Installation & Setup
 
