@@ -63,3 +63,8 @@ curl -X POST "http://127.0.0.1:8000/search" -H "Content-Type: application/json" 
 
 ## 🎥 Demo Video
 
+
+
+
+https://github.com/user-attachments/assets/93e1317b-8604-49b3-91b3-102468df8aee
+
