@@ -25,6 +25,7 @@ git clone https://github.com/yourusername/toolhouse-search.git
 cd toolhouse-search
 ```
 
+## macOS
 
 ### **2️⃣ Backend Setup (FastAPI)**
 
@@ -35,7 +36,7 @@ cd backend
 python -m venv venv
 ```
 ```
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
+source venv/bin/activate
 ```
 ```
 pip install -r requirements.txt
