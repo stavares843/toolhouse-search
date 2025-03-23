@@ -1,4 +1,4 @@
-AI-Powered Search
+## AI-Powered Search
 
 ## Overview
 Toolhouse Search helps users **find tools efficiently** using **AI-based search** with **FAISS and sentence-transformer embeddings**.
